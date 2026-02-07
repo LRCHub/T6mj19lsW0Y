@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Midnight Yellow",
+  "base_artist": "Enfants",
+  "createdAt": "2026-02-07T00:16:23.248243Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Midnight Yellow",
+      "artist": "Enfants",
+      "has_synced": false,
+      "path": "select/pl_01_Midnight_Yellow_Enfants.txt"
+    }
+  ]
+}
